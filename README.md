@@ -1,5 +1,5 @@
 ### Hi there 👋, i'm Jahidul Hasan Suhel
-#### Web Developer
+
 Currently i'm pursuing BSc in Computer Science and Engineering. A very passionate coder who desires to learn and explore technical and problem solving skills and has an interest in solving various algorithmic related problems.
 
 Skills: c/c++
