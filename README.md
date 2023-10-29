@@ -10,4 +10,8 @@ Skills: C/C++, Data Structure & Algorithm, Git & Github, MySQL, SQL....
 - 💬 Ask me about OOPs, DSA, SQL language 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahidul-hasan-suhel-082a5922a//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jahidulhasan.suhel)
+
+📫 How to reach me: jahidulsuhel@gmail.com
+
+
+If you think I can help you achieve your vision and elevate your project to new heights, feel free to connect with me on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jahidul-hasan-suhel-082a5922a//) or reach out via email. Let's collaborate and turn ideas into reality!
