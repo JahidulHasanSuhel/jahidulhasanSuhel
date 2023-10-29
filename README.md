@@ -2,7 +2,7 @@
 
 Currently i'm pursuing BSc in Computer Science and Engineering. A very passionate coder who desires to learn and explore technical and problem solving skills and has an interest in solving various algorithmic related problems.
 
-Skills: C/C++, OOP, Data Structure & Algorithm, Git & Github, MySQL
+Skills: C/C++, OOP, Data Structure & Algorithm, Git, MySQL
 
 - 🔭 I’m currently working on DSA and SQL
 - 🌱 I’m currently learning Data Structure & Algorithm 
